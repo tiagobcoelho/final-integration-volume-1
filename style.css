@@ -1,0 +1,27 @@
+.row{
+    margin: 0;
+}
+
+/* FELLOWS TITLE SPAN */
+.fellows-text span{
+    font-size: 16px;
+}
+
+/* FORM SUBMIT BUTTON */
+.btn {
+    background-color: lightgray;
+}
+
+/* CARDS REWARD HOVER EFFECT */
+.card-img-overlay{
+    display: none;
+}
+
+.card:hover > .card-img-overlay{
+    display: flex;
+}
+
+/* FOOTER LINKS */
+footer a{
+    color:rgba(255,255,255,.5);
+}
