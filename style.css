@@ -18,5 +18,11 @@
 
 /* FOOTER LINKS */
 footer a{
+    text-decoration: none;
     color:rgba(255,255,255,.5);
+}
+
+footer a:hover{
+    text-decoration: none;
+    color: rgb(210, 209, 209);
 }
