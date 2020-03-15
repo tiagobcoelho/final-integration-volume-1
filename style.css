@@ -2,11 +2,6 @@
     margin: 0;
 }
 
-/* FELLOWS TITLE SPAN */
-.fellows-text span{
-    font-size: 16px;
-}
-
 /* FORM SUBMIT BUTTON */
 .btn {
     background-color: lightgray;
